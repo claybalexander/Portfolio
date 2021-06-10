@@ -1,4 +1,4 @@
-# Data Analytics and Visualization Portfolio
+# Analytics/Visualization Portfolio
 
 If you are not already, please considering navigating to https://claybalexander.github.io/Portfolio/ for a more visually pleasant experience. 
 
