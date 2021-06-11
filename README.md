@@ -1,5 +1,4 @@
 # Analytics/Visualization Portfolio
-## Clayton Alexander
 
 If you are not already, please considering navigating to https://claybalexander.github.io/Portfolio/ for a more visually pleasant experience. 
 
