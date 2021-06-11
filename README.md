@@ -2,7 +2,7 @@
 
 If you are not already, please considering navigating to https://claybalexander.github.io/Portfolio/ for a more visually pleasant experience. 
 
-This repository contains the portfolio of data analytics or data visualization projects that I have completed for educational or recreational purposes.
+This repository contains a sample of Jupyter Notebook projects that I have completed for educational or recreational purposes.
 
 For Tableau projects that I have completed, navigate to my Tableau Public profile: https://public.tableau.com/profile/claybalexander#!/.
 
