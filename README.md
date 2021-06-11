@@ -20,3 +20,5 @@ For Tableau projects that I have completed, navigate to my Tableau Public profil
 * [8.1](https://github.com/claybalexander/Portfolio/blob/main/Jupyter%20Notebooks/8.1.ipynb)
 
 ![](/images/positions.png)
+
+theme: minima
