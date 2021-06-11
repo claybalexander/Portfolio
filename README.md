@@ -17,6 +17,5 @@ For Tableau projects that I have completed, navigate to my Tableau Public profil
 * [7.2 - Date Functions](https://github.com/claybalexander/Portfolio/blob/main/Jupyter%20Notebooks/7.2%20-%20Date%20Functions.ipynb)
 * [7.3 - Date Functions.ipynb](https://github.com/claybalexander/Portfolio/blob/main/Jupyter%20Notebooks/7.3%20-%20Date%20Functions.ipynb)
 * [8.1](https://github.com/claybalexander/Portfolio/blob/main/Jupyter%20Notebooks/8.1.ipynb)
-* []()
 
 ![](/images/positions.png)
