@@ -1,6 +1,6 @@
 # Analytics/Visualization Portfolio
 
-If you are not already, please considering navigating to https://claybalexander.github.io/Portfolio/ for a more visually pleasant experience. 
+If you have not already, please consider navigating to https://claybalexander.github.io/Portfolio/ for a more visually pleasant experience. 
 
 This repository contains a sample of Jupyter Notebook projects that I have completed for educational or recreational purposes.
 
